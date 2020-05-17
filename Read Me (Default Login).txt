@@ -1,0 +1,4 @@
+username: admin
+password: admin
+
+Demo data - other users have the same password as their username.

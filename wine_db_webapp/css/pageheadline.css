@@ -1,0 +1,12 @@
+/*
+Author: Benjamin Steele
+Project: CIS275 Wine Database Webapp - L'Enfant
+Path: wine_db_app/css/pageheadline.css
+Date: 11/17/2017
+Description: Contains CSS to overwrite/change default bootstrap settings, and
+             style elements.
+*/
+
+#jumbotron {
+  padding: 12px 0 12px 0;
+}
